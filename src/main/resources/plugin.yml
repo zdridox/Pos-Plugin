@@ -1,0 +1,11 @@
+name: Pos
+version: '${project.version}'
+main: dev.mateuszzdr.pos.Pos
+api-version: '1.21'
+author: zdridox
+description: get player current location or last saved one.
+website: mateusz-zdr.dev
+commands:
+  Pos:
+    permission: Pos.Use
+
